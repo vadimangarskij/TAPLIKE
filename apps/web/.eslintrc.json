@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "../../packages/config/.eslintrc.json"
+  ],
+  "rules": {
+    "@next/next/no-page-custom-font": "off",
+    "react-hooks/exhaustive-deps": "warn",
+    "@typescript-eslint/no-unused-vars": "warn",
+    "prefer-const": "error"
+  }
+}
