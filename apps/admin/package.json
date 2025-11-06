@@ -1,0 +1,14 @@
+{
+  "name": "@campusmatch/admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Starting admin app dev server...'",
+    "build": "echo 'Building admin app...'",
+    "lint": "echo 'Linting admin app...'",
+    "test": "echo 'Testing admin app...'",
+    "typecheck": "echo 'Type checking admin app...'",
+    "format": "echo 'Formatting admin app...'",
+    "clean": "rimraf dist .next"
+  }
+}

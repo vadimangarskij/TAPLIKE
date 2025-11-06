@@ -1,0 +1,15 @@
+{
+  "name": "@campusmatch/shared",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "echo 'Building shared utilities...'",
+    "lint": "echo 'Linting shared utilities...'",
+    "test": "echo 'Testing shared utilities...'",
+    "typecheck": "echo 'Type checking shared utilities...'",
+    "format": "echo 'Formatting shared utilities...'",
+    "clean": "rimraf dist"
+  }
+}
