@@ -1,0 +1,14 @@
+{
+  "name": "@campusmatch/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Starting API server...'",
+    "build": "echo 'Building API...'",
+    "lint": "echo 'Linting API...'",
+    "test": "echo 'Testing API...'",
+    "typecheck": "echo 'Type checking API...'",
+    "format": "echo 'Formatting API...'",
+    "clean": "rimraf dist"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@campusmatch/config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./index.js",
+  "scripts": {
+    "build": "echo 'Building config...'",
+    "lint": "echo 'Linting config...'",
+    "test": "echo 'Testing config...'",
+    "typecheck": "echo 'Type checking config...'",
+    "format": "echo 'Formatting config...'",
+    "clean": "echo 'Cleaning config...'"
+  }
+}
